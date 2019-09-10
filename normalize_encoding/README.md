@@ -1,0 +1,1 @@
+Download the normalization and encoding code by Masek et al. from [here](https://www.peterkovesi.com/studentprojects/libor/sourcecode.html) and place them in this folder. Only 3 files are necessary: `normalizeiris.m`, `encode.m`, and `gaborconvolve.m`.
