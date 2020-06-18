@@ -34,20 +34,13 @@ For the next two files, we need a whole dataset to be present. For information o
 Unless specified in file header, the code in this repository is released under the [BSD 3-Clause License](https://github.com/scale-lab/FCNiris/blob/master/LICENSE).
 
 Please use the following citation if this repository helps your research:
+
 @article{tann2019resource,
-
-  title={A Resource-Efficient Embedded Iris Recognition System Using Fully Convolutional Networks},
-
-  author={Tann, Hokchhay and Zhao, Heng and Reda, Sherief},
-  
-  journal={ACM Journal on Emerging Technologies in Computing Systems (JETC)},
-  
-  volume={16},
-  
-  number={1},
-  
-  pages={1--23},
-  
-  year={2019},
-  
-  publisher={ACM New York, NY, USA}}
+title={A Resource-Efficient Embedded Iris Recognition System Using Fully Convolutional Networks},
+author={Tann, Hokchhay and Zhao, Heng and Reda, Sherief},  
+journal={ACM Journal on Emerging Technologies in Computing Systems (JETC)},
+volume={16},
+number={1},  
+pages={1--23},  
+year={2019},  
+publisher={ACM New York, NY, USA}}
